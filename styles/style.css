@@ -93,16 +93,16 @@ button[type="submit"]:hover {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 2rem;
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-weight: lighter;
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .four .text-box {
@@ -147,7 +147,7 @@ button[type="submit"]:hover {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .idea-5 span,
@@ -157,7 +157,7 @@ button[type="submit"]:hover {
 }
 
 .idea-6 span {
-  font-size: 15rem;
+  font-size: 2rem;
 }
 
 .six {
